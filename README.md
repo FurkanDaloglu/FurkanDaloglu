@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A passionate .Net developer from Turkey</h3>
 
-- 🌱 I’m currently learning **C#, Asp.Net, Asp.Net Core, Golang, MS SQL, SQLite, T-SQL, Linq, Css, Html, Javascript**
+- 🌱 I’m currently learning **C#, Asp.Net, .Net Core, React, Golang, MS SQL, SQLite, T-SQL, Linq, Css, Html, Javascript**
 
 - 📫 How to reach me **furkandalogluu@gmail.com**
 
